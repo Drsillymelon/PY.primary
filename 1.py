@@ -1,3 +1,6 @@
+# Python tutorial Computer Science Circles
+# Created: 8/3/2021 
+
 # print('hello world') 
 # print("Bonjour, tout le monde!")
 # print(3+4)
