@@ -1,6 +1,6 @@
 # Python tutorial Computer Science Circles
 # Created: 8/3/2021 
-# Anyone  
+# Everyone
 
 # print('hello world') 
 # print("Bonjour, tout le monde!")
